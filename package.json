@@ -1,0 +1,34 @@
+{
+  "name": "Discord_Selfbot",
+  "version": "2.2.0",
+  "description": "A selfbot created for discord. It is setup and ready to go in less than 5 min.",
+  "keywords": [
+    "discord",
+    "self",
+    "bot"
+  ],
+  "license": "MIT",
+  "main": "self.js,server.js",
+  "author": "Senpai-Saiyan",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Senpai-Saiyan/Don-t-Hurt-Me."
+  },
+  "scripts": {
+    "start": "node self.js"
+  },
+  "engines": {
+    "node": "8.11.2"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "eris": "^0.8.5",
+    "gumer-psn": "^0.2.0",
+    "moment": "^2.22.1",
+    "node-xbox": "^0.1.0",
+    "superagent": "^3.8.3",
+    "util": "^0.10.3",
+    "express": ""
+  },
+  "devDependencies": {}
+}
