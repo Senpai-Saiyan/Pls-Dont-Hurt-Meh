@@ -142,7 +142,7 @@ self.on('ready', () => {
 
   let platformStatus = {
     xbl: {
-      active: false,
+      active: true,
       online: null,
       platform: null,
       game: null,

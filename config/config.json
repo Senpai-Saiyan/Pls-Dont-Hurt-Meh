@@ -1,18 +1,18 @@
 {
-  "token": "",
-  "ownerID": "",
-  "prefix": "~",
-  "rotatePlayingGame": false,
-  "rotatePlayingGameTime" : 150000,
+"token": "",
+"ownerID": "",
+  "prefix": "pls ",
+  "rotatePlayingGame": true,
+  "rotatePlayingGameTime": 1200000,
   "rotatePlayingGameInStreamingStatus": false,
   "rotateAvatarImage": false,
   "rotateAvatarImageTime" : 600000,
   "defaultStatus": "invisible",
   "PSN": {
     "enabled": false,
-    "email": "Your PSN E-mail",
-    "password": "Your PSN password",
-    "psnID": "Your PSNid"
+    "email": "",
+    "password": "",
+    "psnID": ""
   },
   "XBOX": {
     "enabled": false,
@@ -30,15 +30,13 @@
     "inNotificationChannel": false,
     "logBlockedUsers": false,
     "caseInsensitive": true,
-    "ignoredServers": ["SERVER ID"]
+    "ignoredServers": ["451922677280669696","110373943822540800","264445053596991498","391782434536030220","436579605596471296","439043713944125440","409817375710380054","446456832261881879"]
   },
   "eventNotificator": {
-    "inConsole": true,
+    "inConsole": false,
     "inNotificationChannel": true
   },
-
-  "notificationChannelID": "491296813811367946",
-  
+  "notificationChannelID": "467332993661403138",
   "defaultEmbedColor": "#ffff00",
   "deleteCommandMessages": true,
   "deleteCommandMessagesTime": 15000
