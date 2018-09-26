@@ -28,7 +28,10 @@
     "node-xbox": "^0.1.0",
     "superagent": "^3.8.3",
     "util": "^0.10.3",
-    "express": ""
+    "express": "",
+    "request-handler": "^3.4.7",
+    "request": "^2.87.0",
+    "watch": "^1.0.2"
   },
   "devDependencies": {}
 }
