@@ -36,7 +36,9 @@
     "inConsole": true,
     "inNotificationChannel": true
   },
+
   "notificationChannelID": "491296813811367946",
+  
   "defaultEmbedColor": "#ffff00",
   "deleteCommandMessages": true,
   "deleteCommandMessagesTime": 15000
